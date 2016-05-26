@@ -1,0 +1,11 @@
+feb/16
+
+the class started about 3 weeks ago, but classes that early usally is just a bunch of introductions to what we're going to, learn,
+and then some. feb was just when we were getting our python assignment and i ran to start coding the assignment was to make a
+guessing game so i took it to the next level and used a random number generator, so the anwser will be different everytime, the 
+problem with that is as simple as its solution, i did "guess a number between 1 and 100" with that the player only has a 1 in 100
+chance to get it right, to fix it i changed it to 1-10 to see if i could get it right, and it worked.
+
+at the end of the month we had to do a group project and make a text based adventure game in python, i got grouped up with shawn,
+we agreed to try and split the work 50-50 or as much as we can do i.e. if one is not a good coder then they take care of 
+the story, and like that we talk about what are game was going to be about.
