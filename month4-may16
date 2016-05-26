@@ -3,4 +3,13 @@ may/16
 the last month of classes some people were excited, orther nervous because of the projects and finals, we hit some problems
 
 1. some parts we did not know how to work with them
-2. recoding the 
+2. recoding the first game so it works for this concept
+3. python communcating with the arduino (it was not easy)
+4. shawns arduino board was shot, he sorted it out on the last day
+
+we had the project images and shown them to the class, and explain the who,what, and why. the game was a simple play with 
+bop-it but instead of it have simon says on it were you must keep up the pace, we took the rpg element and worked with what
+we got, we went for 5 mini-games, a temperture game, where you have to change the temperture on the LM35, a photoresistor 
+for a mini-game were the player must block it for a set amount of time, a distance mini-game were we use a HC-SR04 and 
+the player must guess the distance between it and the wall, and thats really all we had ready at the time, but people 
+liked the idea, and if it did work people would properly enjoy it.
